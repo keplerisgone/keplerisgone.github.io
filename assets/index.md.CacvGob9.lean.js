@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as l,a0 as r}from"./chunks/framework.jwovEGr5.js";const u=JSON.parse('{"title":"Blog","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),i={name:"index.md"};function o(n,a,c,s,d,p){return t(),l("div",null,[...a[0]||(a[0]=[r("",7)])])}const f=e(i,[["render",o]]);export{u as __pageData,f as default};
